@@ -2,7 +2,7 @@
 
 preview
 <img src="./banner.jpeg"/>
-<h1 align="left" margin-bottom="30">⚡Hey I'm Jacek⚡</h1>
+<h1 align="left" margin-bottom="30">Hey I'm Jacek</h1>
 
 
 * currently working for **Amiconslut GmbH**
