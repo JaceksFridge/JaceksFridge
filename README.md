@@ -1,7 +1,7 @@
 
 
 preview
-<img src="https://twitter.com/PacJac/header_photo"/>
+<img src="./banner.jpeg"/>
 <h1 align="left" margin-bottom="30">⚡Hey I'm Jacek⚡</h1>
 
 
