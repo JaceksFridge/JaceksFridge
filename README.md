@@ -4,13 +4,9 @@ preview
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaceksFridge&theme=swift)](https://git.io/streak-stats)
 
 
-
-
-<table max-width="50%">
-  <tr>
-    <td valign="top" width="50%">
 
 #### Front-End:
 
@@ -40,21 +36,5 @@ preview
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
 
-    </td>
-    <td valign="top" width="50%">
-    </<td>
-  </tr>
-</table>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaceksFridge)](https://git.io/streak-stats)
-
-
-
-
-
-
-
-
 
 https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket
-
-
