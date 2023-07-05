@@ -35,6 +35,10 @@ preview
 ![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 
-https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket
+
+#### Front-End:
+
+![html](./html.png) ![css](./css.png) ![js](./js.png)
