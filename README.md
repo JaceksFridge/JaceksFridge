@@ -8,7 +8,11 @@ preview
 
 
 
-<h4>Front-End: </h4>
+<table max-width="50%">
+  <tr>
+    <td valign="top" width="50%">
+
+#### Front-End:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -19,7 +23,7 @@ preview
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 
-<h4>Back-End: </h4>
+#### Back-End:
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
@@ -27,8 +31,7 @@ preview
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-
-<h4>Other Tools: </h4>
+#### Other Tools:
 
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
@@ -37,11 +40,21 @@ preview
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
 
+    </td>
+    <td valign="top" width="50%">
+    </<td>
+  </tr>
+</table>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaceksFridge)](https://git.io/streak-stats)
 
 
 
 
 
 
+
+
+
+https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket
 
 
