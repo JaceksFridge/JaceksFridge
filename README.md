@@ -41,4 +41,4 @@ preview
 
 #### Front-End:
 
-![html](./html.png) ![css](./css.png) ![js](./js.png)
+![html](./html.svg) ![css](./css.svg) ![js](./js.svg) ![react](./react.svg) ![next](./next.svg) ![sass](./sass.svg) ![sass](./tail.svg) ![ts](./ts.svg)
