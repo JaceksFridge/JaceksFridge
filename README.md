@@ -37,8 +37,3 @@ preview
 ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-
-
-#### Front-End:
-
-![html](./html.svg) ![css](./css.svg) ![js](./js.svg) ![react](./react.svg) ![next](./next.svg) ![sass](./sass.svg) ![sass](./tail.svg) ![ts](./ts.svg)
