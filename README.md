@@ -28,6 +28,7 @@ preview
 ![Python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 #### Other Tools:
+#### Other Tools:
 
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
