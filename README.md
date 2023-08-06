@@ -6,7 +6,7 @@ preview
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaceksFridge&theme=swift)](https://git.io/streak-stats)
 
-<img align="left" src="https://camo.githubusercontent.com/2a1d7536ee9c828312bfdc5e19ddfa0b86836af46b30c8b5a95261453931825f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6b656e737065637461636c652673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="kenspectacle" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=Jaceksfridge&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
+
 
 #### Front-End:
 
