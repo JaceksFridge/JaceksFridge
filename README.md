@@ -5,7 +5,7 @@ preview
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaceksFridge&theme=swift)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaceksFridge&hide_progress=true)
+
 
 
 #### Front-End:
