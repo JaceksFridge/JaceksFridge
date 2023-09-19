@@ -4,7 +4,6 @@ preview
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaceksFridge&theme=swift)](https://git.io/streak-stats)
 
 
 
