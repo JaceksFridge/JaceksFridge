@@ -4,7 +4,7 @@ preview
 
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JaceksFridge&theme=swift)](https://git.io/streak-stats)v
 
 
 #### Front-End:
